@@ -14,5 +14,3 @@ https://web.stanford.edu/class/archive/cs/cs109/cs109.1212/
 
 Things like pset itself, template, starter code lies exactly in: 
 https://web.stanford.edu/class/archive/cs/cs109/cs109.1212/psets/pset1.html
-
-# Stanford-CS109
